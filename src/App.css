@@ -1,0 +1,104 @@
+.App{
+  background-color: black;
+}
+
+.link-gap{
+  width: 40%;
+  display: flex;
+   align-items: center;
+  justify-content: flex-end; 
+  
+}
+.link-gap>p{
+  padding: 0px 5px;
+
+}
+
+.full-card{
+  width: 300px;
+margin: 50px;
+}
+
+
+.row {
+  background-color: white;
+  width: 750px;
+border-radius: 12px 12px 12px 12px;
+  overflow: hidden;
+  box-shadow: rgb(0 0 0 / 24%) 1px 2px 13px;
+   width: 300px;
+  margin:30px;
+text-align: center;
+}
+.list-mv{
+ display:flex;
+flex-direction: row;
+}
+.image{
+  height: 400px;
+}
+.timing-open{
+  display: flex;
+  padding: 10px;
+ justify-content: space-around;
+ background-color: rgb(0, 183, 255);
+}
+
+.seat{
+  background-color: rgb(165, 154, 154);
+  height: 30px;
+  width: 30px;
+  margin: 5px;
+  text-align: center;
+}
+.seat-opsiont{
+ display: flex;
+justify-content: center;
+}
+.seat-sold{
+  background-color: red;
+  height: 30px;
+  width: 30px;
+  margin: 5px;
+  text-align: center;
+}
+.mt{
+  background-color:  rgb(34, 33, 33);
+  height: 30px;
+  width: 30px;
+  margin: 5px;
+
+}
+.cap{
+  background-color:  rgb(54, 54, 54);
+  height: 30px;
+  width: 30px;
+  margin-right:50px ;
+  text-align: center;
+}
+.infor{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+.opps{
+  display: flex;
+}
+.itmes{
+  margin-left: 70px;
+  margin-top: 8px;
+}
+.screen{
+ 
+  background-color: rgb(236, 234, 234);
+  height: 100px;
+  width:400px;
+  margin-left: 39.5%;
+  transform: rotatex(-48deg);
+  box-shadow: 0 8px 40px rgb(115, 211, 252);
+
+}
+.color{
+  background-color: rgb(34, 33, 33);
+  color:white;
+}
