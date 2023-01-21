@@ -5,7 +5,7 @@ export default function SliderOne(){
       <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active" data-bs-interval="10000">
-          <img src="https://easternmirrornagaland.com/wp-content/uploads/2023/01/varisu-1st.jpeg" class="d-block w-100" alt="..." height={"350"}/>
+          <img src="https://1847884116.rsc.cdn77.org/tamil/home/varisu180123_1.jpg" class="d-block w-100" alt="..." height={"350"}/>
         </div>
         <div class="carousel-item" data-bs-interval="2000">
           <img src="https://th.bing.com/th?id=OIF.L%2f%2fzQbVklsR4SqsNBD7iUA&pid=ImgDet&rs=1" class="d-block w-100" alt="..."height={"350"}/>
