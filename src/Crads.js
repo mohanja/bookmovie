@@ -1,6 +1,4 @@
-import { useEffect } from "react";
-import { Navigate, useNavigate } from "react-router";
-import { Seat } from "./Seat";
+
 
 
 export function Crads({movie}) {

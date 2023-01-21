@@ -1,6 +1,4 @@
 import{Link}from "react-router-dom"
-import { Crads } from "./Crads";
-import { Seat } from "./Seat";
 import { MovieList } from "./MovieList";
 import SliderOne from "./sliderOn";
 
@@ -14,7 +12,7 @@ export function Home() {
           </a>
           <div className='link-gap'>
             <Link to={"/"}>Home</Link>
-            <Link to={"/movies"}>Movies</Link>
+          
             <Link to={"/seat"}>seat</Link>
           </div>
         </div>
