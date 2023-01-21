@@ -4,7 +4,7 @@ import { Seat } from "./Seat";
 
 
 export function Crads({movie}) {
- const neviget=useNavigate()
+
 
   return (
       
@@ -13,7 +13,7 @@ export function Crads({movie}) {
       <h3>{movie.title}</h3>
       <span>{movie.cretifict}</span>
       <span>{movie.language}</span>
-      <button type="button" class="btn btn-danger" onClick={neviget('/seat')}>Book</button>  
+      <button type="button" class="btn btn-danger" >Book</button>  
      </div>
  
   );
